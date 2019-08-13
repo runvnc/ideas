@@ -22,6 +22,6 @@
  to understand one frame for moving the virtual eye across it
  and predict the next attention frame, it would need to understand edges
  
- when it looks at the image, it gets a large set of number for the virtual rods/cones in
+ when it looks at the image, it gets a large set of numbers from the virtual rods/cones in
  its virtual eye.  it does not initially know which rods/cones are next to each other
  
